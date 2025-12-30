@@ -1,0 +1,8 @@
+{
+  "servers": [
+    {
+      "name": "KoalaServer Anisette",
+      "address": "http://100.x.y.z:6969"
+    }
+  ]
+}
